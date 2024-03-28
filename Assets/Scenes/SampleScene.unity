@@ -1569,7 +1569,7 @@ MonoBehaviour:
   timerText: {fileID: 1364296545}
   roundStartText: {fileID: 480395056}
   roundEndText: {fileID: 1398839896}
-  timer: 20
+  timer: 90
   roundNo: 1
   levelEndPanel: {fileID: 1493829691}
   playerOne: {fileID: 562367399}
